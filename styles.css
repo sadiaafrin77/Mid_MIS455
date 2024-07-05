@@ -97,10 +97,10 @@ img.small:hover {
     margin: 5px 0;
 }
 .footer a {
-    color: #ff6347;
+    color: #ffffff;
     text-decoration: none;
     transition: color 0.3s;
 }
 .footer a:hover {
-    color: #fff;
+    color: #ff6347;
 }
