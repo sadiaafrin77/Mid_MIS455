@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f0f0f0;
+    background-color: #c5d9ea;
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -33,7 +33,7 @@ body {
 
 .content {
     padding: 30px;
-    background-color: #fff;
+    background-color: #f3f8fd;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     margin-bottom: 30px;
